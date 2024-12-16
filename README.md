@@ -11,6 +11,12 @@ git commit -m "first time code change"
 
 git push
 
+git conflict/ 
+
+git pull
+
+git branch
+
 
 
  
